@@ -1,0 +1,9 @@
+.call-to-action{
+    background-color: #ffff;
+    display: flex;
+    padding: 2rem;
+}
+
+.call-to-action .left{
+    color: #000;
+}
